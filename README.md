@@ -32,3 +32,4 @@ Interested parties can also join our **#ai-collab-space** channel on Slack.
 - Ulises Gascón (@UlisesGascon)
 - Augustin Mauroy (@AugustinMauroy)
 - Abinadi Contreras (@abinadiS)
+- Jean Burellier (@sheplu)
