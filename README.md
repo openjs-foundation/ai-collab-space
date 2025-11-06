@@ -1,4 +1,11 @@
-# OpenJS AI Collaboration Space
+<a href="https://openjsf.org">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openjs-foundation/artwork/main/openjs_foundation/openjs_foundation-logo-horizontal-color-dark_background.svg" />
+    <img src="https://raw.githubusercontent.com/openjs-foundation/artwork/main/openjs_foundation/openjs_foundation-logo-horizontal-color.svg" width="200" alt="OpenJS Foundation" />
+  </picture>
+</a>
+
+# AI Collaboration Space
 
 Welcome to the **OpenJS AI Collaboration Space**, a community hub where people from across the ecosystem come together to explore how JavaScript powers the future of AI.
 
@@ -21,7 +28,7 @@ The purpose of this repository is to provide a central place for coordination an
 If you’re interested in JavaScript and AI, join us **bi-weekly on Mondays, 9:30 am Pacific**.  
 Check out the schedule on the [OpenJS public calendar](https://calendar.openjsf.org).
 
-Interested parties can also join our **#ai-collab-space** channel on Slack.
+Interested parties can also join our **#ai-collab-space** channel on [OpenJS Slack](https://slack-invite.openjsf.org/).
 
 ## Collaboration Space Members
 
