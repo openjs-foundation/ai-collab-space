@@ -32,11 +32,11 @@ Interested parties can also join our **#ai-collab-space** channel on [OpenJS Sla
 
 ## Collaboration Space Members
 
-- Joe Sepi (@joesepi)
-- Tobie Langel (@tobie)
-- Robin Ginn (@rginn)
-- Benjamin Sternthal (@bensternthal)
-- Ulises Gascón (@UlisesGascon)
-- Augustin Mauroy (@AugustinMauroy)
 - Abinadi Contreras (@abinadiS)
+- Augustin Mauroy (@AugustinMauroy)
+- Benjamin Sternthal (@bensternthal)
 - Jean Burellier (@sheplu)
+- Joe Sepi (@joesepi)
+- Robin Ginn (@rginn)
+- Tobie Langel (@tobie)
+- Ulises Gascón (@UlisesGascon)
