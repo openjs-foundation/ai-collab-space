@@ -26,7 +26,7 @@ Interested parties can also join our **#ai-collab-space** channel on Slack.
 ## Collaboration Space Members
 
 - Joe Sepi (@joesepi)
-- Tobie Langel (tobie)
+- Tobie Langel (@tobie)
 - Robin Ginn (@rginn)
 - Benjamin Sternthal (@bensternthal)
 - Ulises Gascón (@UlisesGascon)
