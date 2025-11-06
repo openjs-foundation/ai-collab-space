@@ -35,8 +35,8 @@ Interested parties can also join our **#ai-collab-space** channel on [OpenJS Sla
 - Abinadi Contreras (@abinadiS)
 - Augustin Mauroy (@AugustinMauroy)
 - Benjamin Sternthal (@bensternthal)
-- Jean Burellier (@sheplu)
+- Jean Burellier (@sheplu) _(co-chair)_
 - Joe Sepi (@joesepi)
 - Robin Ginn (@rginn)
-- Tobie Langel (@tobie)
+- Tobie Langel (@tobie) _(co-chair)_
 - Ulises Gascón (@UlisesGascon)
